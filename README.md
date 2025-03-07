@@ -7,7 +7,7 @@ A third-year undergraduate student at **Tongji University**, studying **Software
 I am passionate about software development and have experience in multiple areas:
 
 ### 🌐 Frontend Development
-- Vue.js
+- Vue
 - Node.js
 - HTML, CSS, JavaScript, TypeScript
 
