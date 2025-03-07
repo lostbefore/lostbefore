@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lostbefore&left_color=green&right_color=red)
 ## 🎓 About Me
 A third-year undergraduate student at **Tongji University**, studying **Software Engineering** in the **School of Computer Science and Technology**.
 
