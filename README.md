@@ -19,8 +19,8 @@ I am passionate about software development and have experience in multiple areas
 - Cocos2d-x
 
 ## 📫 Contact
-- GitHub: [Your GitHub Profile Link](https://github.com/lostbefore)
-- Email: [Your Email Address](lostbefore1129@gmail.com)
+- GitHub: [lostbefore](https://github.com/lostbefore)
+- Email: [Gmail](lostbefore1129@gmail.com)
 
 Feel free to check out my repositories and projects! 🚀
 
