@@ -12,7 +12,7 @@ I am passionate about software development and have experience in multiple areas
 - HTML, CSS, JavaScript, TypeScript
 
 ### 🖥 Backend & General Programming
-- Python, C, C++, Java, Swift
+- Python, C, C++, Swift
 
 ### 🎮 Game Development
 - Unity
